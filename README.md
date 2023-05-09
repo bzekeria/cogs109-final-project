@@ -1,11 +1,13 @@
 # COGS 109 Final Project
 COGS 109: Modeling and Data Analysis (UC San Diego Spring 2023)
 
+**[project guidelines](https://docs.google.com/document/d/1VCTgKDYME7eK4ETNuDsCDOB6EO2HRAp1OiwYNswPAsc/edit)**
+
 ## Table of Contents
 1. [Overview](#overview)
-2. [Getting Sarted](#start)
-3. [Meeting Agenda](#agenda)
-4. [Directory Structure](#directory)
+1. [Getting Sarted](#start)
+1. [Meeting Agenda](#agenda)
+1. [Directory Structure](#directory)
 
 <a id='overview'></a>
 ## Overview
@@ -15,23 +17,22 @@ blah blah
 ## Getting Started
 
 To get started with the project, follow these steps:
-
+<!--2. Install the required dependencies: `pip install -r requirements.txt`-->
 1. Clone the repository: `git clone https://github.com/bzekeria/cogs109-final-project.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Explore the `notebooks/` directory for step-by-step analysis and modeling.
-4. Access the `reports/` directory for project reports and documentation.
+1. Explore the `notebooks/` directory for step-by-step analysis and modeling.
+1. Access the `reports/` directory for project reports and documentation.
 
 
 <a id='agenda'></a>
 ## Meeting Agenda
 
-| Date       | Time     | Agenda                     |
-|------------|----------|----------------------------|
-| 2023-05-09 | 2 PM     |                            |
-| 2023-05-## |          |                            |
-| 2023-05-## |          |                            |
-| 2023-05-## |          |                            |
-| 2023-05-## |          |                            |
+| Date       | Time     | Agenda                                                |
+|------------|----------|-------------------------------------------------------|
+| 2023-05-09 | 4 PM     | Potential topics, questions, and data. Finish abstract|
+| 2023-05-## |          |                                                       |
+| 2023-05-## |          |                                                       |
+| 2023-05-## |          |                                                       |
+| 2023-05-## |          |                                                       |
 
 <a id='directory'></a>
 ## Directory Structure
