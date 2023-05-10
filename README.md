@@ -1,12 +1,13 @@
 # COGS 109 Final Project
 COGS 109: Modeling and Data Analysis (UC San Diego Spring 2023)
 
-**[project guidelines](https://docs.google.com/document/d/1VCTgKDYME7eK4ETNuDsCDOB6EO2HRAp1OiwYNswPAsc/edit)**
+**Quick links**
+- [project guidelines](https://docs.google.com/document/d/1VCTgKDYME7eK4ETNuDsCDOB6EO2HRAp1OiwYNswPAsc/edit)
+- [timeline](https://github.com/bzekeria/cogs109-final-project/blob/main/meetings/timeline.md)
 
 ## Table of Contents
 1. [Overview](#overview)
 1. [Getting Sarted](#start)
-1. [Meeting Agenda](#agenda)
 1. [Directory Structure](#directory)
 
 <a id='overview'></a>
