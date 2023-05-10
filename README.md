@@ -23,18 +23,6 @@ To get started with the project, follow these steps:
 1. Explore the `notebooks/` directory for step-by-step analysis and modeling.
 1. Access the `reports/` directory for project reports and documentation.
 
-
-<a id='agenda'></a>
-## Meeting Agenda
-
-| Date       | Time     | Agenda                                                |
-|------------|----------|-------------------------------------------------------|
-| 2023-05-09 | 4 PM     | Potential topics, questions, and data. Finish abstract|
-| 2023-05-## |          |                                                       |
-| 2023-05-## |          |                                                       |
-| 2023-05-## |          |                                                       |
-| 2023-05-## |          |                                                       |
-
 <a id='directory'></a>
 ## Directory Structure
 
