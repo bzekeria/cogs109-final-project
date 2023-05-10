@@ -20,8 +20,16 @@ blah blah
 To get started with the project, follow these steps:
 <!--2. Install the required dependencies: `pip install -r requirements.txt`-->
 1. Clone the repository: `git clone https://github.com/bzekeria/cogs109-final-project.git`
-1. Explore the `notebooks/` directory for step-by-step analysis and modeling.
-1. Access the `reports/` directory for project reports and documentation.
+  - **To make changes, follow this:**
+    1. *Before any changes made*: 
+      - ```cd cogs109-final-project```
+      - ```git pull```
+    1. After you make a change:
+      - ```git add [file-name]```
+      - ```git commit -m "[add short message on what you did]```
+      - ```git push```
+3. Explore the `notebooks/` directory for step-by-step analysis and modeling.
+4. Access the `reports/` directory for project reports and documentation.
 
 <a id='directory'></a>
 ## Directory Structure
