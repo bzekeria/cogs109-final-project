@@ -5,7 +5,7 @@
 |----------|---------|-----------------------------------------------|-----------------------------------------------------------|----------------------------------------------|
 | **6**    | May 10  | Project logistics                             | Project proposal and timeline                             | **HW 5: Project proposal due 5/12**          |
 |          |         | Discuss potential topics + questions          | Dataset acquired                                          |                                              |
-|          |         | Discuess potential methods/implementation     |                                                           |                                              |
+|          |         | Discuss potential methods/implementation     |                                                           |                                              |
 | **7**    | May ##  | Data preprocessing                            | Dataset preprocessed (`01_data_preprocessing.ipynb`)      |                                              |
 |          |         | Discuss data exploration techniques           | Data explored (`02_eda.ipynb`)                            |                                              |
 |          |         | Discuss potential methods/implementation      | Relevant feature acquired (`03_feature_enginering.ipynb`) |                                              |
