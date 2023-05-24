@@ -40,7 +40,6 @@ The repository is organized as follows:
 
 ```bash
 cogs109-final-project/
-├── .gitignore
 ├── meetings/
 │   ├── timeline.md
 │   └── ...
