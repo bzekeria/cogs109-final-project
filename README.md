@@ -22,7 +22,7 @@ blah blah
 To get started with the project, follow these steps:
 <!--2. Install the required dependencies: `pip install -r requirements.txt`-->
 1. Clone the repository: `git clone https://github.com/bzekeria/cogs109-final-project.git`
-  - ### To make changes, follow this:**
+  - ### To make changes, follow this:
     1. **Before any changes made**: 
       - ```cd cogs109-final-project```
       - ```git pull```
@@ -48,16 +48,9 @@ cogs109-final-project/
 │   ├── data/
 │   ├── 00_reduce_data.ipynb
 │   ├── 01_data_preprocessing.ipynb
-│   ├── 02_exploratory_data_analysis.ipynb
-│   ├── 03_feature_engineering.ipynb
 │   └── ...
 ├── reports/
 │   └── project_report.pdf
-├── scripts/
-│   ├── data_preprocessing.py
-│   ├── feature_engineering.py
-│   ├── model_training.py
-│   └── ...
 ├── .gitignore
 ├── README.md
 └── requirements.txt
