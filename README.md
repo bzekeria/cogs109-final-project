@@ -1,4 +1,5 @@
-# COGS 109 Final Project
+# Enhancing Product Categorization on Amazon through NLP and Machine Learning Techniques
+
 
 **Helpful links**
 - [project guidelines](https://docs.google.com/document/d/1VCTgKDYME7eK4ETNuDsCDOB6EO2HRAp1OiwYNswPAsc/edit)
@@ -22,7 +23,7 @@ blah blah
 To get started with the project, follow these steps:
 <!--2. Install the required dependencies: `pip install -r requirements.txt`-->
 1. Clone the repository: `git clone https://github.com/bzekeria/cogs109-final-project.git`
-  - ### To make changes, follow this:
+  - #### To make changes, follow this:
     1. **Before any changes made**: 
         - ```cd cogs109-final-project```
         - ```git pull```
