@@ -2,7 +2,7 @@
 
 <a id='overview'></a>
 ## Overview
-blah blah
+This project aims to develop a classification model to categorize product names accurately on Amazon products. The workflow begins with data cleaning, including removing punctuation, converting text to lowercase, and eliminating stopwords. Next, exploratory data analysis is performed to gain insights into the dataset and visualize keyword prominence within each category. The text is then transformed using TF-IDF, capturing important features and representing the data numerically. Two classification algorithms, Multinomial Naive Bayes and Logistic Regression, are trained and evaluated using metrics like accuracy, precision, recall, and F1-score. The goal is to automate the categorization process and improve efficiency.
 
 <a id='start'></a>
 ## Getting Started
