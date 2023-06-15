@@ -1,6 +1,6 @@
 # Enhancing Product Categorization on Amazon through NLP and Machine Learning Techniques
 
-Team Members: [Tiffany Gunawan](https://github.com/kuwtiiff), [Neha Sharma](https://github.com/amarasharma), and [Baraa Zekeria](https://github.com/bzekeria)
+Team Members: [Tiffany Gunawan](https://github.com/kuwtiiff), [Neha Sharma](https://github.com/amarasharma), [Baraa Zekeria](https://github.com/bzekeria)
 
 <a id='overview'></a>
 ## Overview
