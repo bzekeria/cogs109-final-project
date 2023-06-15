@@ -1,18 +1,5 @@
 # Enhancing Product Categorization on Amazon through NLP and Machine Learning Techniques
 
-
-**Helpful links**
-- [project guidelines](https://docs.google.com/document/d/1VCTgKDYME7eK4ETNuDsCDOB6EO2HRAp1OiwYNswPAsc/edit)
-- [timeline](https://github.com/bzekeria/cogs109-final-project/blob/main/meetings/timeline.md)
-- [Related Project: E - Commerce Product Category Classifier using Deep Learning](https://github.com/prakhargurawa/Product-Category-Prediction/tree/main)
-  - [Data Cleaning + EDA](https://prakhargurawa.medium.com/creating-an-e-commerce-product-category-classifier-using-deep-learning-part-1-36431a5fbc4e)
-  - [Feature Engineering + ML model](https://prakhargurawa.medium.com/creating-an-e-commerce-product-category-classifier-using-deep-learning-part-2-af4fb42aa945)
-
-## Table of Contents
-1. [Overview](#overview)
-1. [Getting Sarted](#start)
-1. [Directory Structure](#directory)
-
 <a id='overview'></a>
 ## Overview
 blah blah
